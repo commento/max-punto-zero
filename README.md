@@ -1,4 +1,4 @@
-# max-punto-zero
+# Max Punto Zero
 
 Project developed for the Otolab performance Punto Zero.
 Max Msp patch for audio/midi data acquisition from Ableton and output for dmx controlled lights and spazialised audio.
